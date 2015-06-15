@@ -30,7 +30,7 @@ outputFile = "[PATH_TO_FILE][FILENAME].xls";
 ```
 Configuration of write.py
 -----------
-Edit the following lines in "write.py" to set the seed (populated XSL file, source (original XML file used as the input file from parse.py) and output (new none existent file).
+Edit the following lines in "write.py" to set the seed (populated XSL file), source (original XML file used as the input file from parse.py) and output (new none existent file).
 ```
 seed = "[PATH_TO_FILE][FILENAME].xls"
 sourceFile = "[PATH_TO_FILE][FILENAME].xml"; 
