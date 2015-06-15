@@ -6,7 +6,7 @@ The scripts included are a work in progress and were originally created and used
 
 Planned enhancements
 -----------
-* input and output files entered via the CLI
+* Input and output files entered via the CLI
 * Set column count with a list of column names set via the CLI
 * Set the output file type and append the relevant extension to the file
 
