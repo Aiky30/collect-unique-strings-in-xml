@@ -37,8 +37,8 @@ def writeToXslFile():
 	langDoc = xlwt.Workbook()
 	langSheet = langDoc.add_sheet('Language Translations')
 	
-	langSheet.write(0, 0, 'English')
-	langSheet.write(0, 1, 'French')
+	langSheet.write(0, 0, 'Original')
+	langSheet.write(0, 1, 'Translation')
 	
 	i=1
 	for item in uniqueMap:
